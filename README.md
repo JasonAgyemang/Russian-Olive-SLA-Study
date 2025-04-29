@@ -3,6 +3,7 @@ Analyzing how dam-induced water stress affects the leaf traits of invasive Russi
 # Hydrological Effects of Dams on the Specific Leaf Area (SLA) of Russian Olive Trees
 
 
+![Russian Olive Tree](./Russian_Olive_Tree.png)
 
 ## 🌿 Overview
 This project explores how dam structures influence the Specific Leaf Area (SLA) of **Russian olive trees** (*Elaeagnus angustifolia*) in Colorado riparian ecosystems. The goal was to determine if trees located upstream of a dam exhibit different SLA values compared to those downstream, helping understand how water stress caused by dams affects invasive plant species.
